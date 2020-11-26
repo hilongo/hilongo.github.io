@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language><atom:link href="https://movidazumbera.com.ar/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>John Doe</title>
-      <link>https://movidazumbera.com.ar/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://movidazumbera.com.ar/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
       <title>Mark Dinn</title>
       <link>https://movidazumbera.com.ar/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://movidazumbera.com.ar/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>MovidaZ</title>
+      <link>https://movidazumbera.com.ar/author/movidaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://movidazumbera.com.ar/author/movidaz/</guid>
+      <description>Administrador/a del sitio. Siempre comprometido/a con la calidad y fidelidad del contenido publicado. Fanático/a número 1 de todo lo relacionado con el mundo de Zumba y lo que produce en las personas.</description>
     </item>
     
   </channel>

@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://movidazumbera.com.ar/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <loc>https://movidazumbera.com.ar/blog/simple-blog-post-1/</loc>
+    <lastmod>2020-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://movidazumbera.com.ar/blog/</loc>
+    <lastmod>2020-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://movidazumbera.com.ar/</loc>
+    <lastmod>2020-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://movidazumbera.com.ar/blog/simple-blog-post-8/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://movidazumbera.com.ar/blog/installation/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://movidazumbera.com.ar/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://movidazumbera.com.ar/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
@@ -66,11 +66,11 @@
   </url>
   
   <url>
-    <loc>https://movidazumbera.com.ar/author/john-doe/</loc>
+    <loc>https://movidazumbera.com.ar/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://movidazumbera.com.ar/author/mark-dinn/</loc>
+    <loc>https://movidazumbera.com.ar/author/movidaz/</loc>
   </url>
   
   <url>
